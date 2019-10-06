@@ -1,12 +1,12 @@
 # uz/unzip
 
-## Why need this stuff?
-The encoding of zip is different from MacOS and Windows. The filename will be garbled if we extracted the file which zip from Windows.
-This package can help you extract the file with the correct filename.
+## Why do we need this?
+The encoding of zip is different between MacOS and Windows. The filename will be garbled if we extracted the file which is zipped from Windows.
+This package assists you on extracting the file with the correct filename.
 
 ## Installation
 
-This action can let you use the commandm, `uz`, in global enviroment
+This action can let you use the command, `uz`, in global enviroment
 ```
 sudo sh install.sh
 ```
