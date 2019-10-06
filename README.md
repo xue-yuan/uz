@@ -2,7 +2,7 @@
 
 ## Why do we need this?
 The encoding of zip is different between MacOS and Windows. The filename will be garbled if we extracted the file which is zipped from Windows.
-This package assists you in extracting the file with the correct filename.
+This package assists you in extracting the file with the correct filename🎉.
 
 ## Installation
 
@@ -18,6 +18,7 @@ running `uz.sh` can be a alternative solution.
 
 ## Usage
 
+💡 Note: The zip file cannot contain space ` `!
 ```
 uz [-t|-—target <targetPath>] [-e|—-encoding <encoding>] filename[.zip]
 
