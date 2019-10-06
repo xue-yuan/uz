@@ -2,7 +2,7 @@
 
 ## Why do we need this?
 The encoding of zip is different between MacOS and Windows. The filename will be garbled if we extracted the file which is zipped from Windows.
-This package assists you on extracting the file with the correct filename.
+This package assists you in extracting the file with the correct filename.
 
 ## Installation
 
