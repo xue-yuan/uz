@@ -1,4 +1,4 @@
-# uz
+# uz/unzip
 
 ## Why need this stuff?
 The encoding of zip is different from MacOS and Windows. The filename will be garbled if we extracted the file which zip from Windows.
