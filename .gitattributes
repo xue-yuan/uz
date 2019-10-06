@@ -1,2 +1,1 @@
-
-*.py linguist-vendored=false
+*.sh linguist-vendored=false
