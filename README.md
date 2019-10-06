@@ -6,7 +6,7 @@ This package assists you on extracting the file with the correct filename.
 
 ## Installation
 
-This action can let you use the command, `uz`, in global enviroment
+This action allows you to use the command, `uz`, in global enviroment
 ```
 sudo sh install.sh
 ```
