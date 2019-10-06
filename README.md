@@ -10,7 +10,8 @@ This action allows you to use the command, `uz`, in global enviroment
 ```
 sudo sh install.sh
 ```
-Or you can just run the `uz.sh` at once.
+
+running `uz.sh` can be a alternative solution.
 ```
 ./uz.sh <usage>
 ```
