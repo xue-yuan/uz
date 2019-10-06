@@ -1,2 +1,5 @@
 # uz
-Unzip Tool for Mac while zip from different OS(like Windows)
+
+```
+usage: uz file[.zip] [-t|—target <target dir>] [-e|—encoding <encoding>]
+```
