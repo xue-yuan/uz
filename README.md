@@ -18,7 +18,7 @@ running `uz.sh` can be a alternative solution.
 
 ## Usage
 
-💡 Note: The zip file cannot contain space ` `!
+💡 Note: The zip filename cannot contain space ` `!
 ```
 uz [-t|-—target <targetPath>] [-e|—-encoding <encoding>] filename[.zip]
 
