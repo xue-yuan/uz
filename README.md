@@ -1,7 +1,7 @@
 # uz/unzip
 
 ## Why do we need this?
-The encoding of zip is different between MacOS and Windows. The filename will be garbled if we extracted the file which is not English and zipped from Windows.
+The encoding of zip is different between MacOS and Windows. The filename will be garbled if we extracted the file that doesn't have a English file name and is zipped from Windows.
 This package assists you in extracting the file with the correct filename🎉.
 
 ## Installation
