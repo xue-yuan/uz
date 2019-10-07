@@ -18,11 +18,11 @@ running `uz.sh` can be a alternative solution.
 
 ## Usage
 
-💡 Note: The zip filename cannot contain space ` `!
+💡 Note: The zip filename cannot contain space character ` `!
 ```
 uz [-t|-—target <targetPath>] [-e|—-encoding <encoding>] filename[.zip]
 
-Default action is extract file to current path with big5.  
--t, --target: absolute path of target destination
--e, --encoding: encoding of zip file
+Default action is extracting file to current path with `big5`.
+-t, --target: path of target destination.
+-e, --encoding: encoding of zip file.
 ```
