@@ -16,6 +16,8 @@ running `uz.sh` can be a alternative solution.
 ./uz.sh <usage>
 ```
 
+💡Note: This package require `python2`.
+
 ## Usage
 
 ```
@@ -25,7 +27,7 @@ uz [-t|-—target <targetPath>] [-e|—-encoding <encoding>] filename[.zip]
 -e, --encoding: encoding of zip file.
 ```
 
-💡Default action is extracting file to current path with `big5`.
+Default action is extracting file to current path with `big5`.
 
 ## Issue
 
