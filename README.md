@@ -22,7 +22,8 @@ running `uz.sh` can be a alternative solution.
 ```
 uz [-t|-—target <targetPath>] [-e|—-encoding <encoding>] filename[.zip]
 
-Default action is extracting file to current path with `big5`.
 -t, --target: path of target destination.
 -e, --encoding: encoding of zip file.
 ```
+
+Default action is extracting file to current path with `big5`.
